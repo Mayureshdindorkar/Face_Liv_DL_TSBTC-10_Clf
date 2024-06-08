@@ -25,7 +25,14 @@ pip install -r requirements.txt
 python DL_TSBTC_clf_video_testing.py
 ```
 \
-The corresponding research papers are: [paper](https://www.ije.ir/article_161610.html)  
+**Output Screenshots**:  
+
+1. Photo attack:
+   ![Example Image](photo-attack.png)
+
+
+\
+**The corresponding research paper**: [paper](https://www.ije.ir/article_161610.html)  
 ```
 @article {
     author = {Thepade, S. D. and Dindorkar, M. R. and Chaudhari, P. R. and Bang, S. V.},
