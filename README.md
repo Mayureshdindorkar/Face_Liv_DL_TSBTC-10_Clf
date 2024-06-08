@@ -30,8 +30,26 @@ python DL_TSBTC_clf_video_testing.py
 1. Photo attack:
     <div align="center">
       <img src="images/Photo_attack.png" width="700px" />
+    </div>  
+\
+2. HD photo attack:
+    <div align="center">
+      <img src="images/hd_photo_attack.png" width="700px" />
     </div>
-
+\
+3. Video attack:
+    <div align="center">
+      <img src="images/video_attack.png" width="700px" />
+    </div>
+\
+4. Curve photo attack:
+    <div align="center">
+      <img src="images/curve_photo_attack_1.png" width="700px" />
+    </div>
+\
+    <div align="center">
+      <img src="images/curve_photo_attack_1.png" width="700px" />
+    </div>
 
 \
 **The corresponding research paper**: [paper](https://www.ije.ir/article_161610.html)  
