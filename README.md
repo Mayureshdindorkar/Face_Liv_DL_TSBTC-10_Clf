@@ -29,7 +29,7 @@ python DL_TSBTC_clf_video_testing.py
 
 1. Photo attack:
     <div align="center">
-      <img src="images/photo_attack.png" width="500px" />
+      <img src="images/Photo_attack.png" width="700px" />
     </div>
 
 
