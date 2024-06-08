@@ -44,11 +44,11 @@ python DL_TSBTC_clf_video_testing.py
 \
 4. Curve photo attack:
     <div align="center">
-      <img src="images/curve_photo_attack_1.png" width="700px" />
+      <img src="images/Curve_photo_attack_1.png" width="700px" />
     </div>
 \
     <div align="center">
-      <img src="images/curve_photo_attack_2.png" width="700px" />
+      <img src="images/Curve_photo_attack_2.png" width="700px" />
     </div>
 
 \
