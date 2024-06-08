@@ -12,7 +12,13 @@
 - Created model is robust to Photo attack, video attack, warped photo attack, etc.
 
 ---   
-\
+
+**Environment**:  
+1. Windows / Linux    
+
+2. python=3.6  
+
+
 **Steps to run the code**:  
 
 1. Install the necessary dependancies:
