@@ -24,3 +24,8 @@ pip install -r requirements.txt
 ```
 python DL_TSBTC_clf_video_testing.py
 ```
+\
+The corresponding research papers are: [paper](https://www.ije.ir/article_161610.html)  
+```
+Thepade, S. D., Dindorkar, M. R., Chaudhari, P. R., & Bang, S. V.  (2023). Enhanced Face Presentation Attack Prevention Employing Feature Fusion of Pre-trained Deep Convolutional Neural Network Model and Thepade's Sorted Block Truncation Coding. International Journal of Engineering, 36(4), 807-816. doi: 10.5829/ije.2023.36.04a.17
+```
