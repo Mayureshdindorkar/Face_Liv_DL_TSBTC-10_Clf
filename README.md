@@ -16,7 +16,7 @@
 **Environment**:  
 1. Windows / Linux    
 
-2. python=3.6  
+2. python=3.7.0  
 
 
 **Steps to run the code**:  
