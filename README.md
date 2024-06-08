@@ -48,7 +48,7 @@ python DL_TSBTC_clf_video_testing.py
     </div>
 \
     <div align="center">
-      <img src="images/curve_photo_attack_1.png" width="700px" />
+      <img src="images/curve_photo_attack_2.png" width="700px" />
     </div>
 
 \
