@@ -1,1 +1,0 @@
-Vgg19 Deep learning model is on drive: https://drive.google.com/drive/folders/1L9pad-7Cq9JvwAcp1DQafQ15J2pt8g-F?usp=sharing
