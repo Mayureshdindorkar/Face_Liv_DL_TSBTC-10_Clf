@@ -28,7 +28,7 @@ python DL_TSBTC_clf_video_testing.py
 **Output Screenshots**:  
 
 1. Photo attack:
-   ![Example Image](photo-attack.png)
+   ![Example Image](images/photo_attack.png)
 
 
 \
