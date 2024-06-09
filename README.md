@@ -39,7 +39,6 @@
       <img src="images/Curve_photo_attack_2.png" width="700px" />
     </div>
 
-\
 ---
 
 **Environment**:  
