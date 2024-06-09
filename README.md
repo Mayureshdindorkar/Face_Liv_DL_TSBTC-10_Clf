@@ -13,24 +13,6 @@
 
 ---   
 
-**Environment**:  
-1. Windows / Linux    
-
-2. python=3.7.0  
-
-
-**Steps to run the code**:  
-
-1. Install the necessary dependancies:
-```
-pip install -r requirements.txt
-```
-
-2. Run the file:
-```
-python DL_TSBTC_clf_video_testing.py
-```
-\
 **Output Screenshots**:  
 
 1. Photo attack:
@@ -58,6 +40,23 @@ python DL_TSBTC_clf_video_testing.py
     </div>
 
 \
+**Environment**:  
+1. Windows / Linux    
+
+2. python=3.7.0  
+
+
+**Steps to run the code**:  
+
+1. Install the necessary dependancies:
+```
+pip install -r requirements.txt
+```
+
+2. Run the file:
+```
+python DL_TSBTC_clf_video_testing.py
+```
 **The corresponding research paper**: [paper](https://www.ije.ir/article_161610.html)  
 ```
 @article {
