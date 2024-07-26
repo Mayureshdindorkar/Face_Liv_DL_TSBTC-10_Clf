@@ -2,22 +2,22 @@
 
 **Output Screenshots**:  
 
-1. Photo attack:
+**1. Photo attack:**
     <div align="center">
       <img src="images/Photo_attack.png" width="700px" />
     </div>  
 \
-2. HD photo attack:
+**2. HD photo attack:**
     <div align="center">
       <img src="images/hd_photo_attack.png" width="700px" />
     </div>
 \
-3. Video attack:
+**3. Video attack:**
     <div align="center">
       <img src="images/video_attack.png" width="700px" />
     </div>
 \
-4. Curve photo attack:
+**4. Curve photo attack:**
     <div align="center">
       <img src="images/Curve_photo_attack_1.png" width="700px" />
     </div>
